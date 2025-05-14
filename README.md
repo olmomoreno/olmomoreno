@@ -1,7 +1,7 @@
 ## 👋 Hello!  
 I received a Master’s degree in Mechatronics Engineering from Modelo University, and a doctorate in Bioengineering and Robotics, Advanced Robotics Curriculum and Humanoids from University of Genova (UniGe).  
 I was a professor and coordinator of the Mechatronics Engineering programme at Modelo University and an academic director of the Yucatán Robotics Institute (TRIY).  
-Now, I work at the Exoskeletons and Exosuits Laboratory (XoLab) of the Advanced Robotics Department (ADVR) at the Istituto Italiano di Tecnologia (IIT), developing digital user interfaces for industrial exoskeletons.  
+Now, I work at the Wearable Robots, Exoskeletons, and Exosuits Laboratory (XoLab) of the Advanced Robotics Department (ADVR) at the Istituto Italiano di Tecnologia (IIT), developing digital user interfaces for industrial exoskeletons.  
 These devices help workers stay healthy in their workplaces.
 
 ---
