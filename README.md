@@ -8,10 +8,11 @@ These devices help workers stay healthy in their workplaces.
 
 ## 👤 About me  
 🇲🇽 I'm from Mexico  
-💻 Love Programming  
-💻 My favorite programming language is C  
+💻 I love Programming  
+👩‍💻 My favorite programming language is C  
 🖥️ I like embedded systems such as Arduino and Raspberry Pi  
-🖥️ I used to work with FPGAs  
+🧱 I used to work with FPGAs
+📡 I have launched a HAB (High Altitutde Baloon) once
 🤖 I'm a roboticist  
 🏖️ Traveling is one of my favorite hobbies, South Asia is my favorite region  
 🎸 I already played in a band when I was a teenager, I played the bass!
