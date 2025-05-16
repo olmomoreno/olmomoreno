@@ -37,3 +37,11 @@ These devices help workers stay healthy in their workplaces.
 ## 🎯 Hobbies  
 🌮 I love Mexican food  
 💵 I like to collect banknotes and stamps
+
+---
+
+## 🎨 UI/UX
+
+I like Spotify color palette:
+
+![Interface Screenshot](images/spotify_color.jpg)
