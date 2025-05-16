@@ -42,6 +42,6 @@ These devices help workers stay healthy in their workplaces.
 
 ## 🎨 UI/UX
 
-I like Spotify color palette:
+👍 I like Spotify color palette:
 
 ![Interface Screenshot](images/spotify_color.jpg)
