@@ -20,6 +20,7 @@ These devices help workers stay healthy in their workplaces.
 ---
 
 ## 📄 Publications  
+📄 O. A. Moreno F., D. G. Caldwell, and J. Ortiz, “Bridging the Interaction Gap: Developing Usable Human–Machine Interfaces for the XoTrunk Exoskeleton,” in *Proceedings of the 4th WearRAcon Europe Conference 2025*, Nov. 2025, pp. 11-12. doi: [10.24406/publica-6203](https://doi.org/10.24406/publica-6203)  
 📄 O. A. Moreno F., R. Parameswari, C. Di Natali, J. Ortiz, and D. G. Caldwell, “Task Assessment of XoNLI: A Natural Language Interface for Occupational Exoskeletons,” in *2024 10th IEEE RAS/EMBS International Conference for Biomedical Robotics and Biomechatronics (BioRob)*, Sep. 2024, pp. 634–640. doi: [10.1109/BioRob60516.2024.10719829](https://doi.org/10.1109/BioRob60516.2024.10719829)  
 📄 O. A. Moreno F., R. Parameswari, C. Di Natali, D. G. Caldwell, and J. Ortiz, “Assessment and Benchmarking of XoNLI: a Natural Language Processing Interface for Industrial Exoskeletons,” in *2024 IEEE International Conference on Robotics and Automation (ICRA)*, May 2024, pp. 3333–3340. doi: [10.1109/ICRA57147.2024.10610451](https://doi.org/10.1109/ICRA57147.2024.10610451)  
 📄 O. A. Moreno F., C. Di Natali, L. Monica, F. Draicchio, D. G. Caldwell, and J. Ortiz, “Assessment of the Monitor System Interface: A Setup System Tool for Industrial Exoskeletons,” in *2023 9th International HCI and UX Conference in Indonesia (CHIuXiD)*, Nov. 2023, pp. 47–52. doi: [10.1109/CHIuXiD59550.2023.10452744](https://doi.org/10.1109/CHIuXiD59550.2023.10452744)  
