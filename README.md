@@ -18,8 +18,8 @@ These devices help workers stay healthy in their workplaces.
 🎸 I already played in a band when I was a teenager, I played the bass!
 
 ---
-
 ## 📄 Publications  
+📄 O. A. Moreno F., G. Giurin, Y. T. Tefera, C. Di Natali, L. Monica, D. G. Caldwell, and J. Ortiz, “Integrating Automatic Force Assistance Configuration with Mixed Reality for Active Exoskeletons,” in *2026 IEEE/SICE International Symposium on System Integration (SII)*, Jan. 2026, 1054-1060. doi: [10.1109/SII64115.2026.11404649](https://doi.org/10.1109/SII64115.2026.11404649)  
 📄 O. A. Moreno F., D. G. Caldwell, and J. Ortiz, “Bridging the Interaction Gap: Developing Usable Human–Machine Interfaces for the XoTrunk Exoskeleton,” in *Proceedings of the 4th WearRAcon Europe Conference 2025*, Nov. 2025, pp. 11-12. doi: [10.24406/publica-6203](https://doi.org/10.24406/publica-6203)  
 📄 O. A. Moreno F., R. Parameswari, C. Di Natali, J. Ortiz, and D. G. Caldwell, “Task Assessment of XoNLI: A Natural Language Interface for Occupational Exoskeletons,” in *2024 10th IEEE RAS/EMBS International Conference for Biomedical Robotics and Biomechatronics (BioRob)*, Sep. 2024, pp. 634–640. doi: [10.1109/BioRob60516.2024.10719829](https://doi.org/10.1109/BioRob60516.2024.10719829)  
 📄 O. A. Moreno F., R. Parameswari, C. Di Natali, D. G. Caldwell, and J. Ortiz, “Assessment and Benchmarking of XoNLI: a Natural Language Processing Interface for Industrial Exoskeletons,” in *2024 IEEE International Conference on Robotics and Automation (ICRA)*, May 2024, pp. 3333–3340. doi: [10.1109/ICRA57147.2024.10610451](https://doi.org/10.1109/ICRA57147.2024.10610451)  
